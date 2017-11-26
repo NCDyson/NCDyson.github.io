@@ -10,7 +10,7 @@ title:            NCDyson
 tagline:          'A Dev-Blog or something'
 description:      'Project updates.'
 url:              http://ncdyson.github.io
-baseurl:          /ncdyson.github.io
+baseurl:          /ncdyson.github.io/
 
 author:
   name:           'NCDyson'
